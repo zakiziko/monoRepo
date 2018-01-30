@@ -14,7 +14,7 @@ First get up and running by [setting up](docs/refactored_documentation/setup.md)
 ## Coding standards & best practices
 
 * [Coding standards](docs/codingStandards.md)
-* [BDD best practices with jsGiven](docs/bdd.md)
+* [BDD best practices with jsGiVen](docs/bdd.md)
 
 
 ## Infrastructure
