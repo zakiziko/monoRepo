@@ -18,7 +18,7 @@ First get up and running by [setting up](docs/refactored_documentation/setup.md)
 
 
 ## Infrastructure
-Everything you need to know about our infrastructure is right [here](https://github.com/zakiziko/infra).
+Everything you need to know about our infrastructure is right [here](https://github.com/zakiziko/repo/blob/master/infra.md).
 
 ## Website
 Everything you need to know about our website is right [here](docs/refactored_documentation/website.md).
