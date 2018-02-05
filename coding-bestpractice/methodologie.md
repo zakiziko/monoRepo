@@ -9,14 +9,14 @@ All team members must have the folowing things
 ---
 Trello is a collaboration tool that organizes your projects into boards. In one glance, Trello tells you what's being worked on, who's working on what, and where something is in a process.
 
-team membres will have a dashboard with the folowing list
+team membres will have a dashboard with the following list
 
-1. Back log witch contain the main objectifs
-2. TODO witch contain the list of functions that team must do
-3. TODO TECH witch contain the list of technical things that you have to assure
-4. Running that list contain all functions that are running 
-5. Blocked that list contain the functions that you blocked in and you must add a comment to explain why?
-6. Done that list contain the functions that are finished
+1. Back log witch contains the main objectives
+2. TODO witch contains the list of functions that the team must do
+3. TODO TECH witch contains the list of technical things you need to ensure
+4. Running this list contain all functions that are running 
+5. Blocked this list contain the functions that you blocked in and you must add a comment to explain why?
+6. Done This list contains the completed functions
 
 Note: each ticket must have a chickelist and an estimated time
 
