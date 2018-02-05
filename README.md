@@ -12,7 +12,7 @@ This root readme will (hopefully) help you to get on board as quickly as possibl
 ## Coding standards & best practices
 
 * [Coding standards](docs/codingStandards.md)
-* [Methodologie]((https://github.com/zakiziko/repo/blob/master/coding-bestpractice/methodologie.md)
+* [Methodologie](https://github.com/zakiziko/repo/blob/master/coding-bestpractice/methodologie.md)
 * [trunk based development](https://trunkbaseddevelopment.com)
 
 
